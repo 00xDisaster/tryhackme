@@ -27,9 +27,10 @@ Find me:
 
 ## 📊 Solved Rooms (Updated: January 2026)
 
-| #  | Room Name              | Difficulty | Category              | Link to Write-up                          | Completed |
-|----|------------------------|------------|-----------------------|-------------------------------------------|-----------|
-| 01 | [FFUF](https://tryhackme.com/room/ffuf)                     | Easy       | Web Fuzzing           | [/main/rooms/ffuf/FFUF — TryHackMe Room Write-up By Disaster.md](/main/rooms/ffuf/FFUF — TryHackMe Room Write-up By Disaster.md)                     | ✅        |
+| #  | Room Name                          | Difficulty | Category                  | Write-up Link                                                                 | Status |
+|----|------------------------------------|------------|---------------------------|-------------------------------------------------------------------------------|--------|
+| 01 | **FFUF**                           | Easy       | Web Fuzzing / Directory Busting | [rooms/ffuf/FFUF — TryHackMe Room Write-up By Disaster.md](rooms/ffuf/FFUF%20—%20TryHackMe%20Room%20Write-up%20By%20Disaster.md) | ✅     |
+
 
 
 > **Last updated:** January 24, 2026  
