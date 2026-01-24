@@ -29,7 +29,7 @@ Find me:
 
 | #  | Room Name              | Difficulty | Category              | Link to Write-up                          | Completed |
 |----|------------------------|------------|-----------------------|-------------------------------------------|-----------|
-| 01 | [FFUF](https://tryhackme.com/room/ffuf)                     | Easy       | Web Fuzzing           | [rooms/ffuf/FFUF — TryHackMe Room Write-up By Disaster.md](rooms/ffuf/FFUF — TryHackMe Room Write-up By Disaster.md)                     | ✅        |
+| 01 | [FFUF](https://tryhackme.com/room/ffuf)                     | Easy       | Web Fuzzing           | [/main/rooms/ffuf/FFUF — TryHackMe Room Write-up By Disaster.md](/main/rooms/ffuf/FFUF — TryHackMe Room Write-up By Disaster.md)                     | ✅        |
 
 
 > **Last updated:** January 24, 2026  
